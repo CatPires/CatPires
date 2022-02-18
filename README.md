@@ -6,8 +6,8 @@ I'm Catarina, a people's person, nature enthusiast, avid reader and always a gre
 
 🧭 I'm interested in Data Analytics, Machine Learning and Python programming. I'm looking forward to enhancing all the best and more valuable assets that decisions based on technology can bring.
 
-📖 Enrolling now:
-» IBM Machine Learning - IBM Professional Certificate (Coursera)
-» R Programming - Johns Hopkins University (Coursera)
+📖 Enrolling now: <br/>
+» IBM Machine Learning - IBM Professional Certificate (Coursera) <br/>
+» R Programming - Johns Hopkins University (Coursera) <br/>
 
 I'm always looking to grow my personal and professional network. Please feel free to reach out here on LinkedIn.
