@@ -10,4 +10,4 @@ I'm Catarina, a people's person, nature enthusiast, avid reader and always a gre
 » IBM Machine Learning - IBM Professional Certificate (Coursera) <br/>
 » R Programming - Johns Hopkins University (Coursera) <br/>
 
-I'm always looking to grow my personal and professional network. Please feel free to reach out here on LinkedIn.
+I'm always looking to grow my personal and professional network. Please feel free to reach out on LinkedIn (www.linkedin.com/in/catarinaicpires).
