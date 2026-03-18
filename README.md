@@ -1,4 +1,4 @@
-I'm Catarina, a QA Engineer with 4+ years of experience in embedded systems, mobile (iOS & Android), cloud, web and desktop applications testing. Passionate about software quality and constantly learning. <br/>
+I'm Catarina, a detail-oriented QA Engineer with 4+ years of experience and a strong background in embedded systems, mobile (iOS & Android), cloud, web and desktop applications testing. Passionate about ensuring software quality through manual and automated testing strategies. A lifelong learner dedicated to building robust, user-centric systems with a special interest in Embedded and Robotic Systems Testing. <br/>
 
 🎓 ISTQB® Foundation Level Certified <br/>
 📖 Enrolling now: Bachelor's degree, Electrical and Computer Engineering (ISEP) <br/>
