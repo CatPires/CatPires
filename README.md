@@ -1,12 +1,11 @@
-I'm Catarina, a people's person, nature enthusiast, avid reader and always a great listener. I find myself a heartfelt person with an eagerness to learn and discover more. <br/>
+I'm Catarina, a QA Engineer with 4+ years of experience in embedded systems, mobile (iOS & Android), cloud, web and desktop applications testing. Passionate about software quality and constantly learning. <br/>
 
-👩💻 Currently, I’m working as a System Test Engineer. <br/>
+🎓 ISTQB® Foundation Level Certified <br/>
+📖 Enrolling now: Bachelor's degree, Electrical and Computer Engineering (ISEP) <br/>
 
-🧭 I'm interested in QA, Robotic and Embedded Systems Testing and Test Automation. <br/>
+📋 Embedded & Robotic Systems Testing · Test Automation · API Testing <br/>
+🛠️ Tools: Playwright · RobotFramework · Cypress · Selenium · Postman <br/>
 
-📖 Enrolling now: <br/>
-  + Bachelor's degree, Electrical and Computer Engineering (ISEP) <br/>
-  + CS50'S Introduction to Computer Science (Harvard University) <br/>
-  + Computer Science (OSS University) <br/>
+🧭 I'm interested in QA, Test Automation, and Embedded and Robotic Systems Testing. <br/>
 
-I'm always looking to grow my personal and professional network. Please feel free to reach out on LinkedIn (www.linkedin.com/in/catarinaicpires). 
+I'm always looking to grow my personal and professional network. Please feel free to get in touch on LinkedIn (www.linkedin.com/in/catarinaicpires)!
